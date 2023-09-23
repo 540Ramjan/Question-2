@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\03aa82a6-b31e-4ccd-b53c-1d72b5be8eba_images1.jfif",
+      "PackagePath": "staticwebassets\\images\\03aa82a6-b31e-4ccd-b53c-1d72b5be8eba_images1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\0d4e1f8e-51dd-4d2d-9326-f71902ea87a2_download.jpg",
+      "PackagePath": "staticwebassets\\images\\0d4e1f8e-51dd-4d2d-9326-f71902ea87a2_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\1220681a-968d-4b93-8849-efc290fee1d3_images1.jfif",
+      "PackagePath": "staticwebassets\\images\\1220681a-968d-4b93-8849-efc290fee1d3_images1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\48305ecb-0d4e-46f5-b387-5c1cbb387bb9_download (1).jpg",
+      "PackagePath": "staticwebassets\\images\\48305ecb-0d4e-46f5-b387-5c1cbb387bb9_download (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\515eed9d-64f9-4280-9069-129f719dff05_download.jpeg",
+      "PackagePath": "staticwebassets\\images\\515eed9d-64f9-4280-9069-129f719dff05_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\5678ef59-1c72-46f4-ab98-4ad07bf3e74c_download.jpg",
+      "PackagePath": "staticwebassets\\images\\5678ef59-1c72-46f4-ab98-4ad07bf3e74c_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\6abd3ab6-9366-44f9-a6f2-6c65f26a7f1c_download (1).jpg",
+      "PackagePath": "staticwebassets\\images\\6abd3ab6-9366-44f9-a6f2-6c65f26a7f1c_download (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\72f960dc-e3e2-45d6-97e6-ba20e4a7b2b3_download (1).jpg",
+      "PackagePath": "staticwebassets\\images\\72f960dc-e3e2-45d6-97e6-ba20e4a7b2b3_download (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\7eadd09d-8424-4c6e-a7e8-ad04ac6e9b32_image1.jfif",
+      "PackagePath": "staticwebassets\\images\\7eadd09d-8424-4c6e-a7e8-ad04ac6e9b32_image1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\876810b1-6971-46cb-a713-c25a1fe928bf_download (2).jpg",
+      "PackagePath": "staticwebassets\\images\\876810b1-6971-46cb-a713-c25a1fe928bf_download (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\8ab094e2-c509-40d2-b803-3205963e194d_download.jpg",
+      "PackagePath": "staticwebassets\\images\\8ab094e2-c509-40d2-b803-3205963e194d_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\93e75b34-a776-43ab-9636-cc533a7636f9_download (1).jpg",
+      "PackagePath": "staticwebassets\\images\\93e75b34-a776-43ab-9636-cc533a7636f9_download (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\b5c52117-7075-422b-ae35-249fd69ceec0_download.jpeg",
+      "PackagePath": "staticwebassets\\images\\b5c52117-7075-422b-ae35-249fd69ceec0_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\cf3c9503-c41b-4050-a9a4-e856b019ce3d_20230901_233348-removebg-preview (1).png",
+      "PackagePath": "staticwebassets\\images\\cf3c9503-c41b-4050-a9a4-e856b019ce3d_20230901_233348-removebg-preview (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\d08e097d-a6b8-413c-ba77-332463ccdf32_image1.jfif",
+      "PackagePath": "staticwebassets\\images\\d08e097d-a6b8-413c-ba77-332463ccdf32_image1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\d0946c77-2dd5-4812-a158-38cd0c70ae2b_image1.jfif",
+      "PackagePath": "staticwebassets\\images\\d0946c77-2dd5-4812-a158-38cd0c70ae2b_image1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\d8757e54-05fc-422c-8ec1-dbbf48ea281d_images1.jfif",
+      "PackagePath": "staticwebassets\\images\\d8757e54-05fc-422c-8ec1-dbbf48ea281d_images1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\ec106ea0-46bf-4155-a71d-bd9ada2c9233_20230901_233348-removebg-preview (1).png",
+      "PackagePath": "staticwebassets\\images\\ec106ea0-46bf-4155-a71d-bd9ada2c9233_20230901_233348-removebg-preview (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\f03e33b7-01b5-4f4e-8177-50253c9a8ff7_download.jpeg",
+      "PackagePath": "staticwebassets\\images\\f03e33b7-01b5-4f4e-8177-50253c9a8ff7_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jobayer\\OneDrive\\Desktop\\Question-2\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\MasterDetailsUsingCoreJQAjax\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MasterDetailsUsingCoreJQAjax.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MasterDetailsUsingCoreJQAjax.props",
+      "PackagePath": "build\\MasterDetailsUsingCoreJQAjax.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MasterDetailsUsingCoreJQAjax.props",
+      "PackagePath": "buildMultiTargeting\\MasterDetailsUsingCoreJQAjax.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MasterDetailsUsingCoreJQAjax.props",
+      "PackagePath": "buildTransitive\\MasterDetailsUsingCoreJQAjax.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

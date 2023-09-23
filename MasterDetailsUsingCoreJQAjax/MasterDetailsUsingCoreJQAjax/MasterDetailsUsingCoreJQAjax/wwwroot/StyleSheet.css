@@ -1,0 +1,13 @@
+﻿/* styles.css */
+.beautiful-link {
+    color: #007bff; /* Change the text color to your preferred color */
+    font-weight: bold; /* Make the text bold */
+    text-decoration: none; /* Remove underlines */
+    transition: color 0.3s; /* Add a smooth color transition on hover */
+    /* Optional: Add additional styles like font-size, padding, etc. */
+}
+
+    /* Define hover styles */
+    .beautiful-link:hover {
+        color: #ff5733; /* Change the text color on hover to a different color */
+    }
